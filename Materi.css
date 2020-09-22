@@ -3,7 +3,24 @@ body {
 }
 .header {
   background-color: #dcebff;
-  color: #fff;
+  color: black;
+  height: 500px;
+  weight: 700px;
+}
+.keluar a {
+  float: right;
+  font-size; 36px;
+}
+h1 {
+  font-size: 40px;
+}
+p {
+  font-size: 36px;
+}
+.kembali {
+  float: right;
+  font-size: 36px;
+}
 
   
 
