@@ -2,18 +2,23 @@ body {
   font-family: "Avenir Next";
   background color: blue;
 }
-.header {
+.header a {
   color: #fff;
   height: 90px;
   float: right;
   font-size: 36:
     padding: 20px 40px;
-  font-family:"Britannic Bold";
 }
 .main {
-  font-family:"Arabic Typesetting";
+  padding: 100px 80px;
+}
+.Judul {
+  font-family:"Britannic Bold";
   font-size: 40px;
 }
+.Isi P {
+  font-family:"Arabic Typesetting";
+  font-size: 40px;
 .footer {
   padding: 20px 40px;
   float: right;
