@@ -8,9 +8,12 @@ body {
   weight: 700px;
   float: left;
   font-size: 50:
+    padding: 10px 600px;
 }
 .main {
   background-color: #dcebff;
+  height: 500px;
+  weight: 600px;
 }
 .Judul {
   font-family:"Britannic Bold";
