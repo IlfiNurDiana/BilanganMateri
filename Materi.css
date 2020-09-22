@@ -1,24 +1,25 @@
 body {
   font-family: "Avenir Next";
-  background color: blue;
 }
 .header a {
   color: #fff;
-  height: 90px;
+  height: 100px;
   float: right;
   font-size: 36:
     padding: 20px 40px;
+  background color: blue;
 }
 .main {
-  padding: 100px 80px;
+  padding top: 80px;
+  background color: blue;
 }
 .Judul {
   font-family:"Britannic Bold";
-  font-size: 40px;
+  font-size: 20px;
 }
 .Isi P {
   font-family:"Arabic Typesetting";
-  font-size: 40px;
+  font-size: 45px;
 .footer {
   padding: 20px 40px;
   float: right;
