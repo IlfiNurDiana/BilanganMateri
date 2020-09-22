@@ -3,15 +3,15 @@ body {
 }
 .header {
   color: #fff;
-  height: 100px;
+  height: 120px;
+  weight: 80px;
   float: right;
-  font-size: 36:
+  font-size: 40:
     padding: 20px 40px;
-  background-color: blue;
+  background-color: #dcebff;
 }
 .main {
-  padding top: 80px;
-  background-color: blue;
+  background-color: #dcebff;
 }
 .Judul {
   font-family:"Britannic Bold";
