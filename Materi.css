@@ -1,0 +1,21 @@
+body {
+font-family: "Avenir Next";
+background color: blue;
+}
+.header {
+color: #fff;
+height: 90px;
+float: right;
+font-size: 36:
+padding: 20 px 40 px;
+font-family:"Britannic Bold";
+}
+.main {
+font-family:"Arabic Typesetting";
+}
+.footer {
+padding: 20 px 40 px;
+flot: right;
+font-size: 36:
+}
+
