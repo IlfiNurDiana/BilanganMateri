@@ -15,17 +15,21 @@ body {
 .Judul {
   font-family:"Britannic Bold";
   font-size: 40px;
-  height: 80px;
-  weght: 60px;
+  height: 10px;
+  weght: 80px;
+  background-color: #dcebff
+    color: black;
 }
 .Isi P {
   font-family:"Arabic Typesetting";
   font-size: 30px;
-  height: 200;
+  height: 10;
+  weight: 80px;
 .footer {
-  background-color: blue;
+  background-color: #dceff;
   color: black;
   height: 100px;
+  weight: 80px;
  }
   .p {
     float: right;
