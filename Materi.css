@@ -4,18 +4,20 @@ body {
 .header {
   background-color: #dcebff;
   color: black;
-  height: 500px;
+  height: 800px;
   weight: 700px;
 }
-.keluar a {
+.keluar {
   float: right;
   font-size; 36px;
 }
 h1 {
   font-size: 40px;
+  margin-top: 40px;
 }
 p {
   font-size: 36px;
+  margin right: 10px;
 }
 .kembali {
   float: right;
