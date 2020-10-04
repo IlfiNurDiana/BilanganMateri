@@ -1,28 +1,108 @@
-body {
-  font-family: "Avenir Next";
+* {
+    padding:0;
+    margin:0;
+    font-family: avenir-next;
 }
-.header {
-  background-color: #48d1cc;
-  color: white;
-  height: 600px;
-  weight: 700px;
+.atas {
+    padding: 7.8px 0;
+    background-color: #5f9ea0;
 }
-.keluar {
-  float: right;
-  font-size; 40px;
+a {
+    color: inherit;
+    text-decoration: none;
 }
-h1 {
-  font-size: 40px;
-  padding-top: 40px;
+.container {
+    width: 75%;
+    margin: 0 auto;
 }
-p {
-  font-size: 36px;
-  padding-right: 30px;
+.container:after {
+    content:'';
+    display: block;
+    clear: both;
 }
-.kembali {
-  float: right;
-  font-size: 36px;
+header h1 {
+    padding: 15px 0;
+    float: left;
+    color: darkcyan;
+    display: block;
 }
-
-  
-
+header ul {
+    float: right;
+}
+header ul li {
+    display: inline-block;
+}
+header ul li a {
+    padding: 25px 20px;
+    display: inline-block;
+} 
+header ul li a:hover {
+    background-color: #5f9ea0;
+    color: #ffffff;
+}
+.selected {
+    background-color: #5f9ea0;
+    color: #ffffff;
+}
+.bawah {
+    background-color: #5f9ea0;
+    height: 60px;
+}
+.bawah h3 {
+    color: #ffffff;
+    float: left;
+    padding: 18px 20px;
+    font-family: courier;
+}
+.materi h4 {
+    font-family: arial;
+    padding: 20px 0;
+    text-align: center;
+    background-color: aliceblue;
+    color: #044949;
+}
+.materi1 h4 {
+    font-family: arial;
+    padding: 20px 0;
+    text-align: center;
+    background-color: aliceblue;
+    color: #044949;
+    border-top: 2px solid darkcyan;
+}
+.vidio {
+    background-color: aliceblue;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.vidio p {
+    padding-bottom: 10px;
+    font-family: arial;
+    font-weight: bold;
+}
+.file {
+    background-color: aliceblue;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.file p {
+    padding-bottom: 10px;
+    font-family: arial;
+    font-weight: bold;
+}
+.tambahan {
+    background-color: aliceblue;
+    height: 50px;
+}
+.footer {
+    padding: 15px 0;
+    background-color: rgb(41, 83, 83);
+    color: #ffffff;
+    text-align: center;
+    font-family: courier;
+}
+.footer p {
+    padding: 10px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 11.5px;
+}
